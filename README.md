@@ -1,4 +1,4 @@
-<p style='font-size:20px;">Twitter Sentiment Analysis</p>
+<p style="font-size:20px;">Twitter Sentiment Analysis</p>
 #Overview
 This project is a Twitter Sentiment Analysis tool that leverages machine learning and natural language processing (NLP) techniques to analyze and classify the sentiment of tweets as positive, negative, or neutral. This tool can be used for various applications, including social media monitoring, brand analysis, and market research.
 
